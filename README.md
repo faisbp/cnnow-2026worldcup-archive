@@ -1,2 +1,14 @@
 # cnnow-2026worldcup-archive
-HTML page archive and documentation
+
+公开页面文件归档
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 目录说明
+
+- `README.md` 用于记录仓库用途
+- HTML 文件用于承载发布页面
+
+## 后续维护
+
+页面文件会随任务增加，可通过提交历史查看更新过程。
